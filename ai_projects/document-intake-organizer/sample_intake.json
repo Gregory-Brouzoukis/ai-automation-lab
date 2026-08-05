@@ -1,0 +1,12 @@
+[
+  {
+    "reference": "MATTER-001",
+    "matter_type": "property_sale",
+    "received_documents": ["Identity document", "Property title"]
+  },
+  {
+    "reference": "MATTER-002",
+    "matter_type": "business_setup",
+    "received_documents": ["Identity document", "Business name", "Registered address", "Ownership details"]
+  }
+]

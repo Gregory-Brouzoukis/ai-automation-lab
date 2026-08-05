@@ -1,0 +1,12 @@
+[
+  {
+    "sender": "client@example.com",
+    "subject": "Urgent payment issue",
+    "body": "Our invoice payment failed today. Please help immediately."
+  },
+  {
+    "sender": "prospect@example.com",
+    "subject": "Website proposal",
+    "body": "Could you send pricing and a proposal for a new website?"
+  }
+]
