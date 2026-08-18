@@ -18,7 +18,8 @@ Instead of only reading about AI, this repository will help me organize real con
 4. Website and contact form automation
 5. Email and message organization
 6. Simple tools that save time
-7. Ideas that can become real applications
+7. Everyday personal AI assistants
+8. Ideas that can become real applications
 
 ## Current direction
 
@@ -43,6 +44,32 @@ A tool idea for local businesses that need help with messages, reviews, contact 
 ### Website automation tools
 
 Ideas for automations connected with websites, forms, emails and customer communication.
+
+## Everyday AI automation concepts
+
+### Daily Life AI Assistant
+
+Turns a messy list of responsibilities into a prioritized daily plan and helps keep unfinished tasks organized.
+
+Project file: `projects/daily-life-ai-assistant.md`
+
+### Smart Bill and Subscription Assistant
+
+Tracks upcoming bills and recurring subscriptions, highlights payment dates and can flag unusual price changes without storing sensitive banking information.
+
+Project file: `projects/smart-bill-subscription-assistant.md`
+
+### Smart Message Reply Assistant
+
+Understands an authorized incoming message and prepares a concise reply draft while keeping the final sending decision with the user.
+
+Project file: `projects/smart-message-reply-assistant.md`
+
+### Smart Home and Shopping Assistant
+
+Organizes shopping notes, removes duplicates, groups household items and can suggest simple meal ideas from available ingredients.
+
+Project file: `projects/smart-home-shopping-assistant.md`
 
 ## Skills connected with this repository
 
